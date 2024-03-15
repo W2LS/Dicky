@@ -48,7 +48,7 @@ public class Main {
     }
 
     public static void loginGuru() {
-        //login guru
+        //login gurup
         Scanner guru = new Scanner(System.in);
         String password = "admin";
         String pass;
